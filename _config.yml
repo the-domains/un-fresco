@@ -1,0 +1,25 @@
+color:
+  brandColors:
+    - '#703030'
+    - '#2F343B'
+    - '#7E827A'
+    - '#E3CDA4'
+    - '#C77966'
+  brandStrength: 0.6900222136173397
+  lightness: 0.20612243935465813
+  saturation: 0.4563199819531292
+  rhythmicContrast: 0.39970018342137337
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: Un Fresco
+layout_spectrum: 0.7252163297962397
+typography_spectrum: 0.6796808852814138
+content: []
+title: Un Fresco
+description: code & decode
+github: true
